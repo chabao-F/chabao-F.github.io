@@ -1,24 +1,24 @@
-title: chabao的个人技术博客
+title: Teabao
 description: > # this means to ignore newlines until "baseurl:"
-  Blog with theme Future Imperfect<br>
-  这是一个纯技术博客，博主是一个大美女，希望认识更多的程序员，共同进步。
+  
+这是一个纯技术博客，博主是一个晚起精灵，希望认识更多的程序员，共同进步。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chabao-F.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 author:
-  name: 'Viktoriya Teabao'
+  name: 'Teabao'
   last_name: 'Teabao'
-  #cv: '//kaptn.ru'
+  cv: '//kaptn.ru'
   avatar: '/images/avatar.jpeg'
   github_username:  chabao-F 
-#  email: vika@kaptn.ru
+  email: 896489529@qq.com
   #vk_id: id201664979
   # telegram_name: vikapitoshka 
   logo: '/images/logo.svg'
 
  # fullname: Teabao
-  email: 896489529@qq.com
+ # email: vika@kaptn.ru
 # Build settings
 markdown: kramdown
 
